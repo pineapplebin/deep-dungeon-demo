@@ -1,5 +1,9 @@
-<script setup lang="ts"></script>
+<script setup lang="ts">
+import ActionBar from './components/ActionBar.vue';
+</script>
 
 <template>
-  <div></div>
+  <div>
+    <ActionBar />
+  </div>
 </template>
